@@ -1,6 +1,5 @@
 # SpectralLens
 The repository contains the implementations for "SpectralLens: Concurrent UAV RF Fingerprinting via Learnable Spectrogram Decoupling". 
-![SpectralLens](https://github.com/Ding-Kexin/SpectralLens/blob/main/figure/SpectralLens.jpg)
 ****
 # Datasets
 - **PCL-DroneComboRF-Sim**: Simulated dataset with severe overlap (up to 5 concurrent UAVs). *Coming soon.*
