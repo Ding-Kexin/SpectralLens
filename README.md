@@ -7,7 +7,7 @@ The repository contains the implementations for "SpectralLens: Concurrent UAV RF
 
 The datasets will be available here upon publication.
 ****
-## Code
+# Code
 The source code will be released upon publication.
 ****
 # Contact
